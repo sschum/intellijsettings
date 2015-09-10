@@ -1,0 +1,77 @@
+<application>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df93dfc9df9bdfcfdf9edf9edf92dfcbdf9bdf92df9cdf9edfcfdfcbdfcfdfcbdf9adf9fdfcfdf92dfcfdf9fdf9adf98dfcbdfcfdf9edfcbdf92df9adfc9dfcfdf92dfc8dfccdf9fdf9ddf9cdfc9df9e</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="rainu" />
+      <option name="repoName" value="jsimpleshell" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="TaskSettings">
+    <option name="ALWAYS_DISPLAY_COMBO" value="true" />
+  </component>
+</application>
