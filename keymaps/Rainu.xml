@@ -1,4 +1,7 @@
 <keymap version="1" name="Rainu" parent="Eclipse">
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift control F4" />
@@ -14,6 +17,9 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="control alt H" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
